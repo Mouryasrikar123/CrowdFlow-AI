@@ -1,3 +1,11 @@
+<img width="1844" height="952" alt="VolunteerDashboard" src="https://github.com/user-attachments/assets/644ee775-8f89-4cb3-8611-a2acd92b0bf2" />
+<img width="1858" height="950" alt="Volunteer DashBoard" src="https://github.com/user-attachments/assets/3099c791-cbad-4398-a27a-c33138e377ff" />
+<img width="1857" height="960" alt="Public Dashboard" src="https://github.com/user-attachments/assets/42c72ba5-4920-49b9-b588-373442832ead" />
+<img width="1848" height="974" alt="Public DashBoard (2)" src="https://github.com/user-attachments/assets/630c3fc7-b856-4800-b641-724cb054be2d" />
+<img width="1920" height="979" alt="Login page" src="https://github.com/user-attachments/assets/7a00b83f-229a-4e91-98f5-6b146aeac18c" />
+<img width="1835" height="965" alt="AdimDashboard" src="https://github.com/user-attachments/assets/1c5a04e0-dd23-4679-9c83-f2c3f1f58460" />
+<img width="1856" height="952" alt="AdimDashBoard (2)" src="https://github.com/user-attachments/assets/8d3046c6-be05-42c0-9535-c6816dcbaae9" />
+
 # CrowdFlow AI 🚦🤖
 
 An AI-powered crowd management system that recommends the best entry gate based on real-time crowd density, helping reduce congestion and improve visitor flow.
