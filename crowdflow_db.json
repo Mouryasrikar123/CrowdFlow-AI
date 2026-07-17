@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "user_id": "u1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "user_id": "u2",
+      "username": "volunteer1",
+      "password": "volunteer123",
+      "role": "volunteer"
+    },
+    {
+      "user_id": "u3",
+      "username": "volunteer2",
+      "password": "volunteer123",
+      "role": "volunteer"
+    }
+  ],
+  "gates": [
+    {
+      "gate_id": "g1",
+      "gate_name": "Gate A - North Main Entrance",
+      "capacity": 600,
+      "current_count": 148,
+      "status": "active"
+    },
+    {
+      "gate_id": "g2",
+      "gate_name": "Gate B - South Parking Plaza",
+      "capacity": 400,
+      "current_count": 360,
+      "status": "active"
+    },
+    {
+      "gate_id": "g3",
+      "gate_name": "Gate C - East Ticket Concourse",
+      "capacity": 300,
+      "current_count": 59,
+      "status": "active"
+    },
+    {
+      "gate_id": "g4",
+      "gate_name": "Gate D - West VIP & Transit Link",
+      "capacity": 200,
+      "current_count": 185,
+      "status": "active"
+    },
+    {
+      "gate_id": "g5",
+      "gate_name": "Gate E - Arena Boulevard Gate",
+      "capacity": 500,
+      "current_count": 150,
+      "status": "active"
+    }
+  ],
+  "activities": [
+    {
+      "activity_id": "act_1",
+      "gate_id": "g1",
+      "action": "arrival",
+      "timestamp": "2026-07-17T09:38:46.083Z"
+    },
+    {
+      "activity_id": "act_2",
+      "gate_id": "g2",
+      "action": "arrival",
+      "timestamp": "2026-07-17T10:38:46.083Z"
+    },
+    {
+      "activity_id": "act_3",
+      "gate_id": "g3",
+      "action": "exit",
+      "timestamp": "2026-07-17T11:38:46.083Z"
+    },
+    {
+      "activity_id": "act_4",
+      "gate_id": "g4",
+      "action": "arrival",
+      "timestamp": "2026-07-17T12:38:46.083Z"
+    },
+    {
+      "activity_id": "act_evskk5ctq",
+      "gate_id": "g1",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:21:04.075Z"
+    },
+    {
+      "activity_id": "act_re5viiuvx",
+      "gate_id": "g3",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:29:21.473Z"
+    },
+    {
+      "activity_id": "act_w12mjb5ww",
+      "gate_id": "g3",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:29:37.904Z"
+    },
+    {
+      "activity_id": "act_83j4cwpw1",
+      "gate_id": "g3",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:29:49.727Z"
+    },
+    {
+      "activity_id": "act_96x6n00ti",
+      "gate_id": "g1",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:50:17.804Z"
+    },
+    {
+      "activity_id": "act_nlfj7n7ls",
+      "gate_id": "g3",
+      "action": "arrival",
+      "timestamp": "2026-07-17T14:54:47.343Z"
+    },
+    {
+      "activity_id": "act_2of0bs3al",
+      "gate_id": "g1",
+      "action": "arrival",
+      "timestamp": "2026-07-17T15:00:24.879Z"
+    }
+  ]
+}
