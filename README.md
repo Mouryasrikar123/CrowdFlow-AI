@@ -56,7 +56,9 @@ npm run dev
 ## 👥 Team
 
 - Mourya Srikar
-- (Add teammate names)
+- Vyshnavi
+- sreekar
+- pavani
 
 ## 📌 Future Improvements
 
