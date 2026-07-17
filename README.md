@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CrowdFlow AI 🚦🤖
 
-# Run and deploy your AI Studio app
+An AI-powered crowd management system that recommends the best entry gate based on real-time crowd density, helping reduce congestion and improve visitor flow.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/e249f84a-5104-4e75-91e9-9f7cbc90ad10
+- AI-powered gate recommendation
+- Real-time crowd monitoring
+- Admin Dashboard
+- Volunteer Dashboard
+- Public Display Dashboard
+- Responsive UI
+- Estimated waiting time
+- Live gate occupancy status
 
-## Run Locally
+## 🛠 Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Node.js
+- Express.js
+- Gemini AI
+- Render
+- HTML
+- CSS
 
+## 📸 Screenshots
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+(Add screenshots here)
+
+## 🌐 Live Demo
+
+https://crowdflow-ai.onrender.com
+
+## 💻 GitHub Repository
+
+https://github.com/Mouryasrikar123/CrowdFlow-AI
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Mouryasrikar123/CrowdFlow-AI.git
+cd CrowdFlow-AI
+npm install
+npm run dev
+```
+
+## 👥 Team
+
+- Mourya Srikar
+- (Add teammate names)
+
+## 📌 Future Improvements
+
+- CCTV-based crowd detection
+- Mobile application
+- Emergency alert system
+- Predictive crowd analytics
+
+## 📜 License
+
+This project was developed as part of a Hackathon for educational purposes.
